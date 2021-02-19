@@ -3,12 +3,16 @@
     {
       "id": 1,
       "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "helloWorld"
     }
   ],
+  
+  "posts2": [
+    {
+      "id": 2,
+      "title": "helloW"
+    }
+  ],
+  
   "profile": {
     "name": "typicode"
   }
